@@ -10,8 +10,7 @@ This project contains a complete simulation framework for quadcopter UAV control
 | `parameters_UAV.m`     | Defines physical and control parameters of UAV    |
 | `simulation.m`         | Runs the simulation and calls other modules       |
 | `trajectory.m`         | Defines 3D flight path for the UAV                |
-| `slprj/`               | Simulink cache files (auto-generated)             |
-| `DinhDucDuy-*.doc/pdf` | Project report in Word and PDF format             |
+
 
 ## ▶️ How to Run
 
@@ -19,7 +18,5 @@ This project contains a complete simulation framework for quadcopter UAV control
 2. Run `simulation.m` script.
 3. Observe the flight path animation and control response.
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
 
